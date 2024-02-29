@@ -1,2 +1,7 @@
 # CS6704_Implement
-# CS6704_Implement
+
+## Teammates
+
+- huayu
+- Arpit
+- Tian Yu (Edward)
