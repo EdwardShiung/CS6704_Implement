@@ -6,8 +6,8 @@
 
 - Tian Yu (Edward) Home Page Research List Demo
 - Arpit - Login Page & Signup Page
-- huayu - other
-- Sahar - other
+- Huayu - Edit Page
+- Sahar - Search Page 
 
 ## Page Deisgn
 
