@@ -7,7 +7,7 @@
 - Tian Yu (Edward) Home Page Research List Demo
 - Arpit - Login Page & Signup Page
 - Huayu - Edit Page
-- Sahar - Search Page 
+- Sahar - Research Page List
 
 ## Page Deisgn
 
@@ -22,5 +22,5 @@
 - Edit Page (Huayu)
 ![avatar](/Design%20Page%20/Huayu_other.png)
 
-- Search Page (Sahar)
+- Research Page List (Sahar)
 ![avatar](/Design%20Page%20/Sahar_Search%20Page.png)
